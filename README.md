@@ -1,12 +1,12 @@
-## Desafio-Bagaggio
+# Desafio-Bagaggio
 
 Senti-me bastante desafiado e consegui superar meus limites com este desafio. Agradeço por me proporcionar essa oportunidade de crescimento e aprimoramento.
 
-## 🔗 Link para a calculadora
+# Calculadora
 
-Calculadora: [Clique aqui](https://calculadora-bagaggio.netlify.app)
+[Clique aqui](https://calculadora-bagaggio.netlify.app) para abrir a calculadora
 
-## Linguagens Utilizadas
+# Linguagens Utilizadas
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -15,7 +15,8 @@ Calculadora: [Clique aqui](https://calculadora-bagaggio.netlify.app)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-## Contatos
+# Contato
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-almeida-b84b8b287/)
 
 
