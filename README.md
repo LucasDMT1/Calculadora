@@ -18,7 +18,7 @@ Senti-me bastante desafiado e consegui superar meus limites com este desafio. Ag
 
 ## Contatos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-almeida-b84b8b287/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-almeida-b84b8b287/)
 
 
 
