@@ -6,6 +6,8 @@ Senti-me bastante desafiado e consegui superar meus limites com este desafio. Ag
 
 [Clique aqui](https://calculadora-bagaggio.netlify.app) para abrir a calculadora
 
+Caso de erro acesse esse [link](https://lucasdmt1.github.io/Desafio-Bagaggio/)
+
 # Linguagens Utilizadas
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
