@@ -4,7 +4,7 @@ Senti-me bastante desafiado e consegui superar meus limites com este desafio. Ag
 
 ## 🔗 Link para a calculadora
 
-https://calculadora-bagaggio.netlify.app
+Calculadora: [Clique aqui](https://calculadora-bagaggio.netlify.app)
 
 ## Linguagens Utilizadas
 
