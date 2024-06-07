@@ -17,8 +17,10 @@ https://calculadora-bagaggio.netlify.app
 Senti-me bastante desafiado e consegui superar meus limites com este desafio. Agradeço por me proporcionar essa oportunidade de crescimento e aprimoramento.
 
 ## Contatos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-almeida-b84b8b287/)
 
-www.linkedin.com/in/lucas-almeida-b84b8b287
+
+
 
 
 
