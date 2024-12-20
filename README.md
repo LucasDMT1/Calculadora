@@ -4,9 +4,7 @@ Uma simples calculadora que montei apenas para testar meus conhecimentos previos
 
 # Acesso
 
-[Clique aqui](https://calculadora-bagaggio.netlify.app) para abrir a calculadora
-
-Caso de erro acesse esse [link](https://lucasdmt1.github.io/Desafio-Bagaggio/)
+[link](https://lucasdmt1.github.io/Desafio-Bagaggio/) para abrir a calculadora
 
 # Linguagens Utilizadas
 
