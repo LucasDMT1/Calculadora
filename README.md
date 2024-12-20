@@ -2,7 +2,7 @@
 
 Uma simples calculadora que montei apenas para testar meus conhecimentos previos de programação web.
 
-# Calculadora
+# Acesso
 
 [Clique aqui](https://calculadora-bagaggio.netlify.app) para abrir a calculadora
 
