@@ -4,7 +4,7 @@ Uma simples calculadora que montei apenas para testar meus conhecimentos previos
 
 # Acesso
 
-[link](https://lucasdmt1.github.io/Desafio-Bagaggio/) para abrir a calculadora
+[link](https://lucasdmt1.github.io/Calculadora/) para abrir a calculadora
 
 # Linguagens Utilizadas
 
