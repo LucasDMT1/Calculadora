@@ -1,6 +1,6 @@
-# Desafio-Bagaggio
+# Calculadora
 
-Senti-me bastante desafiado e consegui superar meus limites com este desafio. Agradeço por me proporcionar essa oportunidade de crescimento e aprimoramento.
+Uma simples calculadora que montei apenas para testar meus conhecimentos previos de programação web.
 
 # Calculadora
 
